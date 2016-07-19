@@ -1,0 +1,31 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.section i{
+	font-size: 2.8em;
+    margin-top: 0.1em;
+}
+.s11 p{
+	font-size: 2em;
+    margin: 5px 0;
+}
+.section ul li{
+	list-style: square;
+	margin-left: 20px;
+}
+.section ol li{
+	list-style: lower-greek;
+
+}
